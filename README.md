@@ -1,3 +1,7 @@
+
+![front](https://github.com/smithisdname/AirBnB_clone/assets/119043262/528811af-3440-48f6-8aab-1295ebd26978)
+![console](https://github.com/smithisdname/AirBnB_clone/assets/119043262/0d776b8e-159e-4635-9fc0-ee751c0779b3)
+
 Description
 This team project is part of the ALX Software Engineer program. It's the first step towards building a first full web application: an AirBnB clone. This first step consists of a custom command-line interface for data management, and the base classes for the storage of this data.
 
