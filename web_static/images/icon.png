@@ -1,1 +1,9 @@
-<img src="downloads" alt="icon.png.icon">
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>HTML Image</h2>
+<img src="downloads" alt="icon.png.icon width= "10" height= "10">
+
+</body>
+</html>
