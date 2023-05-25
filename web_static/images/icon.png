@@ -3,7 +3,7 @@
 <body>
 
 <h2>HTML Image</h2>
-<img src="img_icon.png.icon" alt="icon.png.icon width= "10" height= "10">
+<img src="img_icon.png.icon" alt="icon.png width= "10" height= "10">
 
 </body>
 </html>
